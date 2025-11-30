@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **habibqureshi54321@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** Phaton Team Project
 - 🌱 **I’m currently learning:** React JS
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** Your project here
+- 👯 **I’m looking to collaborate on:** E-Commerce Website, Bussiness Website and Portfolio Websites
+- 🤔 **I’m looking for help with:** Currently not.
 - 💬 **Ask me about:** Collaboration, Panda Coders
 - 📫 **How to reach me:** habibqureshi54321@gmail.com
 - 😄 **Pronouns:** Habib Ur Rehman
