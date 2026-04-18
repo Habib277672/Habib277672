@@ -42,7 +42,7 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
   &nbsp;╔═══ About Me ═══╗&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 </h2>
 
 <br/>
@@ -70,10 +70,10 @@
   logic to build impactful digital experiences that users love. 🚀
 </p>
 
-- 🌱 &nbsp;**Currently mastering:** Backend Integration, Supabase & Advanced Animations
+- 🌱 &nbsp;**Currently Learning:** Backend with Node and Express JS. 
 - 👯 &nbsp;**Looking to collaborate on:** Open Source & Frontend Projects
 - 💬 &nbsp;**Ask me about:** React, Tailwind CSS, Framer Motion & Supabase
-- 🎯 &nbsp;**2025 Goal:** Build stunning UIs & ship 10+ impactful projects
+- 🎯 &nbsp;**2026 Goal:** Build stunning UIs & ship 10+ impactful projects
 - ⚡ &nbsp;**Fun fact:** I tweak animations until they feel *just* right 🎨
 
 <br clear="right"/>
