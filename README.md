@@ -21,16 +21,16 @@
 
 <!--Badges Row-->
 <div align="center">
-  <a href="https://github.com/habib-ur-rehman">
-    <img src="https://komarev.com/ghpvc/?username=habib-ur-rehman&label=Profile+Views&color=a855f7&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <a href="https://github.com/Habib277672">
+    <img src="https://komarev.com/ghpvc/?username=Habib277672&label=Profile+Views&color=a855f7&style=for-the-badge&logo=eye" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://github.com/habib-ur-rehman?tab=followers">
-    <img src="https://img.shields.io/github/followers/habib-ur-rehman?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Followers&logo=github" alt="Followers"/>
+  <a href="https://github.com/Habib277672?tab=followers">
+    <img src="https://img.shields.io/github/followers/Habib277672?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Followers&logo=github" alt="Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/habib-ur-rehman?tab=stars">
-    <img src="https://img.shields.io/github/stars/habib-ur-rehman?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars&logo=github" alt="Stars"/>
+  <a href="https://github.com/Habib277672?tab=stars">
+    <img src="https://img.shields.io/github/stars/Habib277672?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars&logo=github" alt="Stars"/>
   </a>
 </div>
 
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 &nbsp;
-<a href="https://github.com/habib-ur-rehman" target="_blank">
+<a href="https://github.com/Habib277672" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -136,22 +136,22 @@
   <tr>
     <td width="50%" align="center">
       <h3><strong>📈 Overall Stats</strong></h3>
-      <a href="https://github.com/habib-ur-rehman">
-        <img src="https://github-readme-stats.vercel.app/api?username=habib-ur-rehman&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd" alt="GitHub Stats"/>
+      <a href="https://github.com/Habib277672">
+        <img src="https://github-readme-stats.vercel.app/api?username=Habib277672&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd" alt="GitHub Stats"/>
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>🔥 Streak Stats</strong></h3>
-      <a href="https://github.com/habib-ur-rehman">
-        <img src="https://streak-stats.demolab.com/?user=habib-ur-rehman&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b949e&stroke=21262d" alt="Streak Stats"/>
+      <a href="https://github.com/Habib277672">
+        <img src="https://streak-stats.demolab.com/?user=Habib277672&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b949e&stroke=21262d" alt="Streak Stats"/>
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3><strong>🏆 Top Languages</strong></h3>
-      <a href="https://github.com/habib-ur-rehman">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib-ur-rehman&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd" alt="Top Languages" width="420"/>
+      <a href="https://github.com/Habib277672">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib277672&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd" alt="Top Languages" width="420"/>
       </a>
     </td>
   </tr>
@@ -163,8 +163,8 @@
 <h2 align="center">📈 &nbsp;Contribution Graph</h2>
 
 <div align="center">
-  <a href="https://github.com/habib-ur-rehman">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=habib-ur-rehman&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=Habib's%20Contribution%20Timeline" width="95%" alt="Contribution Graph"/>
+  <a href="https://github.com/Habib277672">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habib277672&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=Habib's%20Contribution%20Timeline" width="95%" alt="Contribution Graph"/>
   </a>
 </div>
 
@@ -186,5 +186,5 @@
 <!--Footer-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:1a1a2e&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=20&fontColor=a855f7&animation=fadeIn&fontAlignY=65" width="100%"/>
-  <sub>Crafted with 💜 by <a href="https://github.com/habib-ur-rehman">Habib Ur Rehman</a></sub>
+  <sub>Crafted with 💜 by <a href="https://github.com/Habib277672">Habib Ur Rehman</a></sub>
 </div>
