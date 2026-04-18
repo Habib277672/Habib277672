@@ -155,8 +155,12 @@
     <td colspan="2" align="center">
       <h3><strong>🏆 Top Languages</strong></h3>
       <a href="https://github.com/habib-ur-rehman">
+        <div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
       </a>
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     </td>
   </tr>
 </table>
