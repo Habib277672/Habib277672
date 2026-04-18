@@ -155,9 +155,8 @@
     <td colspan="2" align="center">
       <h3><strong>🏆 Top Languages</strong></h3>
       <a href="https://github.com/habib-ur-rehman">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib-ur-rehman&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd" alt="Top Languages" width="420"/>
-        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
       </a>
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     </td>
   </tr>
 </table>
