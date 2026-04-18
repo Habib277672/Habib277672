@@ -156,6 +156,7 @@
       <h3><strong>🏆 Top Languages</strong></h3>
       <a href="https://github.com/habib-ur-rehman">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib-ur-rehman&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd" alt="Top Languages" width="420"/>
+        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
       </a>
     </td>
   </tr>
@@ -173,19 +174,6 @@
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<!--Snake Contribution-->
-<h2 align="center">🐍 &nbsp;Snake Eating My Contributions</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habib-ur-rehman/habib-ur-rehman/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habib-ur-rehman/habib-ur-rehman/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/habib-ur-rehman/habib-ur-rehman/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-  </picture>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
