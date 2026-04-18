@@ -54,9 +54,9 @@
 │      HABIB UR REHMAN  •  DEV            │
 ├─────────────────────────────────────────┤
 │  Role    : Frontend Developer           │
-│  Focus   : Web Apps & UI/UX            │
-│  Status  : Open to Opportunities 🟢    │
-│  Passion : Code · Design · Ship        │
+│  Focus   : Web Apps & UI/UX             │
+│  Status  : Open to Opportunities 🟢    |
+│  Passion : Code · Design · Ship         │
 └─────────────────────────────────────────┘
 ```
 
