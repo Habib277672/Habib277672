@@ -48,8 +48,6 @@ backed by clean APIs and well-structured databases behind the scenes.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7c3aed,100:0d1117&height=2&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7c3aed,100:0d1117&height=2&section=header" width="100%"/>
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
