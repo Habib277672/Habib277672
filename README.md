@@ -1,179 +1,153 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=220&section=header&text=Habib%20Ur%20Rehman&fontSize=60&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Websites%20%26%20Custom%20Platforms&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%" alt="Habib Ur Rehman — Full Stack Developer" />
-</div><div align="center">
-  <a href="https://habib-ur-rehman.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Habib+Ur+Rehman;%F0%9F%92%BB+Full+Stack+Developer+from+Pakistan;%F0%9F%8E%93+Building+websites+%26+custom+platforms+for+education+providers" alt="Typing introduction" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:2d1b69,100:7c3aed&height=260&section=header&text=Habib%20Ur%20Rehman&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=c4b5fd" width="100%"/>
+
+<a href="https://habib-ur-rehman.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=820&lines=Building+modern+websites+%26+custom+web+platforms;For+academies%2C+training+institutes+%26+course+creators;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<a href="https://habib-ur-rehman.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-7c3aed?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/habibqureshi123/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@pandacoders"><img src="https://img.shields.io/badge/YouTube-Panda%20Coders-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Habib277672&label=Profile+Views&color=7c3aed&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Habib277672?style=flat-square&color=a855f7&label=Followers&logo=github"/>
+<img src="https://img.shields.io/github/stars/Habib277672?style=flat-square&color=7c3aed&label=Stars&logo=github"/>
+
 </div>
+
+---
+
+## 👋 Hello, I'm Habib
+
+I'm a **Full Stack Developer** from Sukkur, Pakistan. I build **modern websites and custom web platforms for academies, training institutes, and course creators** — from clean, fast marketing sites to full platforms with logins, dashboards, and databases.
+
+I enjoy the whole stack: sharp React and Next.js interfaces with smooth motion on the front, and Node.js, Express, and SQL/NoSQL databases doing the work behind them.
+
+```text
+👨‍💻 Role       →  Full Stack Developer
+🎯 Focus      →  Websites & web platforms for academies and course creators
+📍 Location   →  Sukkur, Sindh, Pakistan
+🟢 Status     →  Open to freelance work & collaborations
+```
+
+---
+
+## 🛠️ What I Build
+
+| | |
+|---|---|
+| 🎓 **Academy & Institute Websites** | Fast, responsive, professional sites that present courses, faculty, and admissions clearly. |
+| 📚 **Course Platforms** | Custom platforms for course creators: authentication, content, student areas, and admin tools. |
+| ⚙️ **APIs & Backends** | REST and GraphQL APIs with Node.js and Express, secured with JWT and backed by SQL or NoSQL databases. |
+| 🎨 **UI/UX & Motion** | Polished interfaces with Tailwind CSS and Framer Motion, designed in Photoshop, Illustrator, and Stitch. |
+
+---
+
+## ⚡ Skills & Tech Stack
+
+### 🎨 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases & ORMs
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+
+### 🧰 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🎨 Design
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-4285F4?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Personal Portfolio**](https://github.com/Habib277672/Personal-Portfolio) · [Live](https://habib-ur-rehman.vercel.app/) | My portfolio website: responsive, animated, and built to showcase my work. | React · Tailwind CSS · Framer Motion · Supabase |
+| [**Authentication Setup**](https://github.com/Habib277672/Authentication-Setup) | A reusable authentication setup for login and signup flows. | JavaScript |
+| [**Finta Clone**](https://github.com/Habib277672/finta-clone) | A frontend clone built to practice pixel-accurate, modern UI. | JavaScript |
+| [**Product Landing Page**](https://github.com/Habib277672/Product-Landing-Page) | A clean, responsive product landing page. | HTML · CSS |
+| [**Weather Web App**](https://github.com/Habib277672/Weather-Webapp) | A weather app that shows live conditions for a searched location. | JavaScript |
+
+👉 More on my [portfolio](https://habib-ur-rehman.vercel.app/) and [all repositories](https://github.com/Habib277672?tab=repositories).
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://habib-ur-rehman.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-habib--ur--rehman.vercel.app-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/habibqureshi123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@pandacoders"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Habib277672&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib277672&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd"/>
+
+<img src="https://streak-stats.demolab.com/?user=Habib277672&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b949e&stroke=21262d"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Habib277672&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true" width="95%"/>
+
 </div>
+
+---
+
+## 🐼 Panda Coders
+
+I also share coding content under **Panda Coders**:
+
+<a href="https://www.youtube.com/@pandacoders"><img src="https://img.shields.io/badge/YouTube-@pandacoders-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@pandaxcoder"><img src="https://img.shields.io/badge/TikTok-@pandaxcoder-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+<a href="https://www.instagram.com/panda_coders/"><img src="https://img.shields.io/badge/Instagram-panda__coders-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/pandacoders1/"><img src="https://img.shields.io/badge/Facebook-pandacoders1-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+
+---
+
+## 🤝 Let's Work Together
+
+Running an academy, institute, or online courses and need a website or platform? I'd love to help.
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Habib277672&label=Profile+Views&color=a855f7&style=for-the-badge&logo=eye" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Habib277672?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Followers&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Habib277672?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars&logo=github" alt="GitHub stars" />
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" /><!-- ═══════════════ ABOUT ═══════════════ -->
-👨‍💻 About Me
-<img align="right" width="320" alt="Coding animation" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />I'm Habib Ur Rehman, a Full Stack Developer focused on building modern websites and custom web platforms for academies, training institutes, and course creators.
 
-I work across frontend and backend development, turning requirements into responsive interfaces, practical features, and reliable web applications. I care about clear user journeys, maintainable code, and making sure each feature serves a real purpose.
-name: Habib Ur Rehman
-role: Full Stack Developer
-location: Pakistan
-focus:
-  - Academy & training institute websites
-  - Course landing pages
-  - Student enrollment solutions
-  - Custom education platforms
-status: Open to opportunities 🟢
-- 🔭 Building: Websites and custom platforms with React, Next.js, and backend technologies
-- 🌱 Learning: Strengthening my skills in TypeScript, Next.js, and scalable application development
-- 🤝 Open to: Freelance projects, collaborations, and meaningful development opportunities
-- 🎬 Also: I share coding content as Panda Coders
-- ⚡ I value: Thoughtful UI/UX, useful functionality, and clean, maintainable code
-<br clear="right" /><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" /><!-- ═══════════════ WHAT I DO ═══════════════ -->
-🛠️ What I Do
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🎓 Academy & Institute Websites</h3>
-      Responsive websites that present programs, instructors, and educational offerings clearly.
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>📚 Course & Enrollment Solutions</h3>
-      Course pages and student-focused user flows that make it easier to explore programs and express interest.
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>⚙️ Custom Web Platforms</h3>
-      Full-stack applications with tailored dashboards, authentication, APIs, and database-driven features.
-    </td>
-  </tr>
-</table><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" /><!-- ═══════════════ SKILLS ═══════════════ -->
-⚡ Skills & Tech Stack
-<div align="center">🎨 Frontend Development
+<a href="https://habib-ur-rehman.vercel.app/"><img src="https://img.shields.io/badge/🌐%20View%20Portfolio-7c3aed?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/habibqureshi123/"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=110&section=footer" width="100%"/>
 
-
-
-
-
-
-
-
-🧩 State Management & Data Fetching
-
-
-
-⚙️ Backend & APIs
-
-
-
-
-
-
-🗄️ Databases, BaaS & ORMs/ODMs
-
-
-
-
-
-
-
-🧰 Development Tools & Design
-
-
-
-
-
-
-
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" /><!-- ═══════════════ PROJECTS ═══════════════ -->
-🚀 Featured Projects
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 <a href="https://www.ailysium.org/">AiLysium Academy</a></h3>
-      A full-stack web platform built for an AI education and training academy. It presents educational programs and supports user authentication and enrollment-related interactions.
-      <br /><br />
-      <b>Stack:</b> React · Vite · Tailwind CSS · Node.js · Express.js · Prisma · PostgreSQL
-      <br />
-      <a href="https://www.ailysium.org/">Live Website</a> · <a href="https://github.com/ailysiumofficial/ailysium-test">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/Habib277672/Personal-Portfolio">Personal Portfolio</a></h3>
-      My portfolio website, built to present my work, services, and development approach through a responsive interface and interactive details.
-      <br /><br />
-      <b>Stack:</b> React · Tailwind CSS · Framer Motion · Supabase
-      <br />
-      <a href="https://habib-ur-rehman.vercel.app/">Live Demo</a> · <a href="https://github.com/Habib277672/Personal-Portfolio">Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Sales Team Dashboard</h3>
-      A dashboard project with authentication, role-aware data access, and data visualizations for sales team workflows.
-      <br /><br />
-      <b>Stack:</b> React · Tailwind CSS · Supabase · PostgreSQL · Charts · Google OAuth
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 Chat Application</h3>
-      A real-time chat application concept with Supabase authentication and file storage for chat-related uploads.
-      <br /><br />
-      <b>Stack:</b> React · Supabase Auth · Supabase Storage
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 URL Shortener</h3>
-      A backend-focused URL shortener with authentication and server-side deployment.
-      <br /><br />
-      <b>Stack:</b> Node.js · Express.js · MongoDB · EJS · JWT · PM2
-    </td>
-    <td width="50%" valign="top">
-      <h3>📂 More Projects</h3>
-      Explore my other repositories and project work on GitHub, or visit my portfolio for a curated showcase.
-      <br /><br />
-      <a href="https://habib-ur-rehman.vercel.app/">Portfolio</a> · <a href="https://github.com/Habib277672?tab=repositories">All Repositories</a>
-    </td>
-  </tr>
-</table><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" /><!-- ═══════════════ PANDA CODERS ═══════════════ -->
-🐼 Panda Coders
-I also share coding content, development tips, and learning experiences through Panda Coders.
-<div align="center">
-  <a href="https://www.youtube.com/@pandacoders"><img src="https://img.shields.io/badge/YouTube-@pandacoders-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@pandaxcoder"><img src="https://img.shields.io/badge/TikTok-@pandaxcoder-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.instagram.com/panda_coders/"><img src="https://img.shields.io/badge/Instagram-panda__coders-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/pandacoders1/"><img src="https://img.shields.io/badge/Facebook-pandacoders1-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" /><!-- ═══════════════ STATS ═══════════════ -->
-📊 GitHub Stats
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Habib277672&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=Habib277672&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b949e&stroke=21262d" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib277672&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c4b5fd" alt="Top Languages" width="420" />
-    </td>
-  </tr>
-</table><div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habib277672&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Graph" />
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" /><!-- ═══════════════ CONTACT ═══════════════ -->
-🤝 Let's Connect
-Working on an academy website, a course experience, or a custom web platform? Let's connect and discuss what you have in mind.
-<div align="center">
-  <a href="https://habib-ur-rehman.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/habibqureshi123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Habib277672"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:1a1a2e&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=20&fontColor=a855f7&animation=fadeIn&fontAlignY=65" width="100%" alt="Thanks for visiting" />
-  <sub>Crafted with 💜 by <a href="https://github.com/Habib277672">Habib Ur Rehman</a></sub>
 </div>
