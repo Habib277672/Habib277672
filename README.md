@@ -110,40 +110,9 @@ Most of my work is for education businesses. I turn "we need a website" into a p
 
 <br/>
 
-## 📌 Featured Projects
-
-<!-- Replace the rows below with your real projects. Add a screenshot link for each if you can. -->
-
-| Project | Description | Stack | Links |
-| :-- | :-- | :-- | :-- |
-| **Project Name** | One line on what it does and who it is for | Next.js · TypeScript · PostgreSQL | [Live](https://example.com) · [Code](https://github.com/Habib277672) |
-| **Project Name** | One line on what it does and who it is for | React · Node.js · MongoDB | [Live](https://example.com) · [Code](https://github.com/Habib277672) |
-| **Project Name** | One line on what it does and who it is for | Next.js · Supabase · Tailwind | [Live](https://example.com) · [Code](https://github.com/Habib277672) |
-
-<br/>
-
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<a href="https://github.com/Habib277672">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Habib277672&show_icons=true&theme=transparent&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Habib277672&show_icons=true&theme=default&hide_border=true&title_color=7c3aed&icon_color=7c3aed&text_color=24292f&count_private=true&include_all_commits=true"/>
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Habib277672&show_icons=true&hide_border=true"/>
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/Habib277672">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib277672&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=c084fc&text_color=c9d1d9"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib277672&layout=compact&langs_count=6&theme=default&hide_border=true&title_color=7c3aed&text_color=24292f"/>
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib277672&layout=compact&langs_count=6&hide_border=true"/>
-  </picture>
-</a>
-
-</div>
-
+<h2 align="center">📊 GitHub Stats</h2> <div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=Habib277672&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=ddd6fe"/><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib277672&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ddd6fe"/> <img src="https://streak-stats.demolab.com/?user=Habib277672&theme=github-dark-blue&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=c084fc&sideLabels=ddd6fe&dates=8b949e&stroke=21262d"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habib277672&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true" width="95%"/> </div>
 <br/>
 
 ## 🐼 Panda Coders
