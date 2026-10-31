@@ -48,31 +48,6 @@ backed by clean APIs and well-structured databases behind the scenes.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7c3aed,100:0d1117&height=2&section=header" width="100%"/>
 
-<h2 align="center">🛠️ What I Build</h2>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Academy & Institute Websites</h3>
-      Fast, responsive, professional sites that present courses, faculty, and admissions clearly.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Course Platforms</h3>
-      Custom platforms for course creators with authentication, content, student areas, and admin tools.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ APIs & Backends</h3>
-      REST and GraphQL APIs with Node.js and Express, secured with JWT and backed by SQL or NoSQL databases.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 UI/UX & Motion</h3>
-      Polished interfaces with Tailwind CSS and Framer Motion, designed in Photoshop, Illustrator, and Stitch.
-    </td>
-  </tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7c3aed,100:0d1117&height=2&section=header" width="100%"/>
 
 <h2 align="center">⚡ Tech Stack</h2>
